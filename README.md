@@ -21,3 +21,34 @@
 ![O1 to Ofast](https://github.com/user-attachments/assets/2461c2cc-bb5b-4bdc-8643-a0f4575a41fb)
 
 
+# TASK 2:
+# A. spike Simulation and observation with O1 and Ofast. Upload snapshot of compiled C Code, RISC-V Objdmp
+
+## 1. C code of "sum of n numbers" used 
+<img width="525" alt="sum of n numbers" src="https://github.com/user-attachments/assets/1e334b26-75fc-40ec-aa5c-349f41d8af6a">
+
+## 2.Ofast output using riscv simulator
+<img width="529" alt="risv simulator" src="https://github.com/user-attachments/assets/ac585f84-a1d3-457d-b11b-29f768182e3a">
+
+## 3. confirming using spike and after debugging
+![SPIKE](https://github.com/user-attachments/assets/42880870-91cd-42cf-9252-94cb4b963d6d)
+
+
+# B. write a simple C program for any simple application and RISC-V GCC/SPIKE
+
+# STEPS
+## 1. i selected the code for a half adder
+
+## 2. writing the code in C Program
+![ha ccode](https://github.com/user-attachments/assets/a940045c-e9b6-4ceb-8d3e-2ff0ebd61551)
+
+## 3. compiling in gcc
+![halfadder gcc](https://github.com/user-attachments/assets/0a2e2e5e-903d-437c-8fc6-ca74df2426a4)
+
+## 4. half adder C code in spike simulator
+![ha using spike](https://github.com/user-attachments/assets/05bf4b5a-7c2b-490d-ac6a-755521c7cf1c)
+
+## 5. half adder in RISC simulator
+![ha riscv](https://github.com/user-attachments/assets/f503c968-06b0-48b3-8108-5a610afa2b23)
+
+
