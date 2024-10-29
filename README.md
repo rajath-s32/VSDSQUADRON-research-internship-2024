@@ -38,6 +38,13 @@
 
 # STEPS
 ## 1. i selected the code for a half adder
+A half adder is a basic digital circuit that adds two single binary digits and produces a sum and a carry. The logic behind a half adder can be expressed with the following equations:
+
+Sum: 
+S=A⊕B (A XOR B)
+Carry: 
+C=A⋅B (A AND B)
+
 
 ## 2. writing the code in C Program
 ![ha ccode](https://github.com/user-attachments/assets/a940045c-e9b6-4ceb-8d3e-2ff0ebd61551)
